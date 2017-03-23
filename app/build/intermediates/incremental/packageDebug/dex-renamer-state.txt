@@ -1,0 +1,7 @@
+#Wed Mar 22 20:14:56 EDT 2017
+base.0=/Users/angrant/work/Comic-Geek-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_930cc48d3ecade4d9732ff3d01ab2e38d06412d6
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/angrant/work/Comic-Geek-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5ed4a5f75822d741346f98f2c160327aa4ef25d7/classes.dex
+base.1=/Users/angrant/work/Comic-Geek-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5ed4a5f75822d741346f98f2c160327aa4ef25d7
+file.0=/Users/angrant/work/Comic-Geek-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_930cc48d3ecade4d9732ff3d01ab2e38d06412d6/classes.dex

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/angrant/work/Comic-Geek-aws-my-sample-app-android/MySampleApp/app/build/intermediates/res/merged/debug/mipmap-hdpi/bot_response.png",
+        "source": "/Users/angrant/work/Comic-Geek-aws-my-sample-app-android/MySampleApp/app/src/main/res/mipmap-hdpi/bot_response.png"
+    },
+    {
+        "merged": "/Users/angrant/work/Comic-Geek-aws-my-sample-app-android/MySampleApp/app/build/intermediates/res/merged/debug/mipmap-hdpi/bot_user.png",
+        "source": "/Users/angrant/work/Comic-Geek-aws-my-sample-app-android/MySampleApp/app/src/main/res/mipmap-hdpi/bot_user.png"
+    },
+    {
+        "merged": "/Users/angrant/work/Comic-Geek-aws-my-sample-app-android/MySampleApp/app/build/intermediates/res/merged/debug/mipmap-hdpi/splash_icon.png",
+        "source": "/Users/angrant/work/Comic-Geek-aws-my-sample-app-android/MySampleApp/app/src/main/res/mipmap-hdpi/splash_icon.png"
+    },
+    {
+        "merged": "/Users/angrant/work/Comic-Geek-aws-my-sample-app-android/MySampleApp/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/Users/angrant/work/Comic-Geek-aws-my-sample-app-android/MySampleApp/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    }
+]

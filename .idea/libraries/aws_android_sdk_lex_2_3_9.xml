@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="aws-android-sdk-lex-2.3.9">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.amazonaws/aws-android-sdk-lex/2.3.9/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.amazonaws/aws-android-sdk-lex/2.3.9/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-lex/2.3.9/e3d67687a8ab2948c69753127b43a08585dd3a37/aws-android-sdk-lex-2.3.9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

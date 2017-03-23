@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/angrant/work/Comic-Geek-aws-my-sample-app-android/MySampleApp/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1c1afa0ab2a8197a5da1b36c4167a9e479cb74d9">
+        <dex dex="/Users/angrant/work/Comic-Geek-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.android-facebook-android-sdk-4.6.0_230eff0357647e14d1e984eb065b65d148dd0845/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/angrant/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-s3/2.3.9/8b4d1ccbb09daafd17aa3eba99af31ad8aecf505/aws-android-sdk-s3-2.3.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8b4d1ccbb09daafd17aa3eba99af31ad8aecf505">
+        <dex dex="/Users/angrant/work/Comic-Geek-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/aws-android-sdk-s3-2.3.9_f5fee609c0383292fa25b66ade6ff3908b7540bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/angrant/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/20.0/89507701249388e1ed5ddcf8c41f4ce1be7831ef/guava-20.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="89507701249388e1ed5ddcf8c41f4ce1be7831ef">
+        <dex dex="/Users/angrant/work/Comic-Geek-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/guava-20.0_59e19a8a6c35b415d3674f8504592a2ef1ebd87e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/angrant/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-cognitoidentityprovider/2.3.9/39a3018aee421bd16bc086a92b9bede977da5c93/aws-android-sdk-cognitoidentityprovider-2.3.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="39a3018aee421bd16bc086a92b9bede977da5c93">
+        <dex dex="/Users/angrant/work/Comic-Geek-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/aws-android-sdk-cognitoidentityprovider-2.3.9_e1bf3ba1dc083ca1f001f56789e5bd83798cce7f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/angrant/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-core/2.3.9/2fa9ee0e95329912656c8ccd98991b195a3ea539/aws-android-sdk-core-2.3.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2fa9ee0e95329912656c8ccd98991b195a3ea539">
+        <dex dex="/Users/angrant/work/Comic-Geek-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/aws-android-sdk-core-2.3.9_b9a2cc9c4066485c07a18b76d00ee7bb2123b1c2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/angrant/work/Comic-Geek-aws-my-sample-app-android/MySampleApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="bc593af08e89282c429233631a26f9bd4bc3adda">
+        <dex dex="/Users/angrant/work/Comic-Geek-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5ed4a5f75822d741346f98f2c160327aa4ef25d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/angrant/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-ddb/2.3.9/5d12b8c7c10b169cdddb3d6c09c800a42dfba6b7/aws-android-sdk-ddb-2.3.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5d12b8c7c10b169cdddb3d6c09c800a42dfba6b7">
+        <dex dex="/Users/angrant/work/Comic-Geek-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/aws-android-sdk-ddb-2.3.9_db64a077fdcca66ee397a824c9afb461675dd204/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/angrant/work/Comic-Geek-aws-my-sample-app-android/MySampleApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/Users/angrant/work/Comic-Geek-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.0_9a97173e9f49524a774867e888c7180ed0ed4686/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/angrant/work/Comic-Geek-aws-my-sample-app-android/MySampleApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6ee9d6bdbb0421cadf210cce34b1f331097c5315">
+        <dex dex="/Users/angrant/work/Comic-Geek-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_930cc48d3ecade4d9732ff3d01ab2e38d06412d6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/angrant/work/Comic-Geek-aws-my-sample-app-android/MySampleApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2491ae1b2a848af1f4f0c795f3117c1bd6a1989f">
+        <dex dex="/Users/angrant/work/Comic-Geek-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-7.8.0_c5a60683d0092889e62606593292754452d9a8a7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/angrant/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/angrant/work/Comic-Geek-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_6e4d15d5190874cccc8415ce866ae1c78fb032ba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/angrant/work/Comic-Geek-aws-my-sample-app-android/MySampleApp/app/build/intermediates/exploded-aar/com.amazonaws/aws-android-sdk-lex/2.3.9/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8c026fc3064df23277862419c79b81a7b6c097ad">
+        <dex dex="/Users/angrant/work/Comic-Geek-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.amazonaws-aws-android-sdk-lex-2.3.9_39ca90b49da788e9fdb7a1ecdbd2ccfc0a58f51f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/angrant/work/Comic-Geek-aws-my-sample-app-android/MySampleApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="/Users/angrant/work/Comic-Geek-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-7.8.0_4cd49d5958a48c97531d0dbbf2d2d7315ef75c9b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/angrant/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="/Users/angrant/work/Comic-Geek-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.0_d124ade2028f75f6417a153313fa15c11b25cb8a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/angrant/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-ddb-mapper/2.3.9/b64f410bf2f4d4db5642f066d9bad54d2ea4608c/aws-android-sdk-ddb-mapper-2.3.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b64f410bf2f4d4db5642f066d9bad54d2ea4608c">
+        <dex dex="/Users/angrant/work/Comic-Geek-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/aws-android-sdk-ddb-mapper-2.3.9_02b0ead349a8384113422cddc8cae645c6863552/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/angrant/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-cognito/2.3.9/d7e881325e8217fd65651fc7153a3db06f2e454c/aws-android-sdk-cognito-2.3.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7e881325e8217fd65651fc7153a3db06f2e454c">
+        <dex dex="/Users/angrant/work/Comic-Geek-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/aws-android-sdk-cognito-2.3.9_96420358651c1b6690f2318c93bd7fc6e11eb156/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/angrant/work/Comic-Geek-aws-my-sample-app-android/MySampleApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/Users/angrant/work/Comic-Geek-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.1.0_ad89340625c7d2aa661fb658832a2fdeb05bb12b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/angrant/work/Comic-Geek-aws-my-sample-app-android/MySampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="/Users/angrant/work/Comic-Geek-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.1.0_4dce241123f00e324fb41836abdfd02d83556794/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/angrant/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.2.0/6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd/bolts-android-1.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="/Users/angrant/work/Comic-Geek-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-android-1.2.0_1acfa19a03d8252771049299502be85ea4f52d96/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/angrant/work/Comic-Geek-aws-my-sample-app-android/MySampleApp/app/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/Users/angrant/work/Comic-Geek-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-multidex-1.0.1_f8954ba86f90b636026d3788424edac077f0da29/classes.dex" />
+    </item>
+
+</items>
